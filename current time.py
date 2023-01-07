@@ -5,7 +5,7 @@ print("")
 print("This Program will tell you your current time")
 print("")
 
-print("Contact on Telegram: https://t.me/Juniorprogrammerboy
+print("Contact on Telegram: https://t.me/Juniorprogrammerboy")
 print(" I hope for you good future and i am willing that you will come high effort.")
 print("")
 
